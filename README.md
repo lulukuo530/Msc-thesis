@@ -17,5 +17,6 @@ The process contains two main phases:
     - Clustering methods:
       - K-means clustering
       - Hierarchical clustering
+  * Validated the results with 10-fold cross validation
   * Generated numbers of visualisation plots to explain the results
       
