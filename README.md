@@ -1,6 +1,7 @@
-# ggplot Visualisation
-Various visualisation plots through ggplot in my Master thesis
+# Thesis Aim
+By sending daily applications usage of each user to remind their potential addiction to phone apps, we hope to discover a specific relationship between phone addiction and personal characteristics. 
 
+The process contains two main phases:
 
 ## Data Acquisition Phase
   * Daily submit applications usage of each user via ggplot
