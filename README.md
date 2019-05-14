@@ -1,5 +1,5 @@
 # Thesis Aim
-By sending daily applications usage of each user to remind their potential addiction to phone apps, we hope to discover a specific relationship between phone addiction and personal characteristics. 
+By sending daily applications usage of each user to remind their potential addiction to phone apps, we hope to discover a specific relationship between phone addiction and personal characteristics. Data is not provided due to privacy reasons.
 
 The process contains two main phases:
 
