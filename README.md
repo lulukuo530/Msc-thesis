@@ -3,11 +3,11 @@ By sending daily applications usage of each user to remind their potential addic
 
 The process contains two main phases:
 
-## Data Acquisition Phase
+## Data Acquisition
   * Daily submit applications usage of each user via ggplot
   * Every day recieved new responses from the user and make correspondent adjustment of the graphs
   
-## Data Analysis Phase
+## Data Analysis
   * Analysed data through methods below:
     - Classification methods: 
       - Multinomial Logistic Regression
